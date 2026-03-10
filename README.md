@@ -1,109 +1,64 @@
-# TRADING-ANALYTICS-DASHBOARD-
-**Project Context**
+# Trading Performance Analytics Dashboard (Power BI)
 
+## Project Context
 This project was developed as a freelance analytics solution for an independent trader who needed a centralized dashboard to track trading performance, capital growth, and risk exposure.
 
 The client previously recorded trades manually in spreadsheets but lacked a clear way to analyze performance metrics or monitor trading consistency.
 
 To address this problem, an interactive Power BI dashboard was developed to transform raw trade logs into actionable insights.
 
-**Anlysis Objective**
+---
+
+## Analysis Objective
 
 The main objective of this dashboard was to help the trader:
 
-Monitor capital growth and account balance trends
+- Monitor capital growth and account balance trends
+- Track win rate and trade success ratio
+- Evaluate risk exposure on each trade
+- Analyze monthly trading performance
+- Identify patterns in profitable and losing trades
 
-Track win rate and trade success ratio
+---
 
-Evaluate risk exposure on each trade
-
-Analyze monthly trading performance
-
-Identify patterns in profitable and losing trades
-
-This allows the trader to make data-driven decisions instead of relying on intuition.
-
-
-**Solution Developed**
+## Solution Developed
 
 A complete trading analytics dashboard was designed using Power BI.
 
 The solution included:
 
-Data cleaning and preparation of the trading journal
+- Data cleaning and preparation of the trading journal
+- Creation of calculated metrics using DAX
+- Design of an interactive dashboard with filters and KPIs
+- Visualization of performance trends over time
 
-Creation of calculated metrics using DAX
+---
 
-Design of an interactive dashboard with filters and KPIs
+## Key Metrics Implemented
 
-Visualization of performance trends over time
+### Performance Metrics
+- Current Account Balance
+- Net Profit / Loss
+- Win Rate
+- Total Trades
+- Monthly Performance
 
-The dashboard allows the trader to explore performance data dynamically.
+### Risk Metrics
+- Risk Percentage per Trade
+- Risk-Reward Ratio
+- Loss Distribution
 
+---
 
+## Tools & Technologies
 
-**Key Metrics Implemented**
-**Performance Metrics**
+- Power BI
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
 
-Current Account Balance
+---
 
-Net Profit / Loss
-
-Win Rate
-
-Total Trades
-
-Monthly Performance
-
-
-
-**Risk Metrics**
-
-Risk Percentage per Trade
-
-Risk-Reward Ratio
-
-Loss Distribution
-
-
-
-**Analytical Insights**
-
-Capital growth trend
-
-Monthly trading performance
-
-Trade outcome distribution
-
-
-
-**Tools & Technologies**
-
-Power BI – Dashboard development and visualization
-
-DAX (Data Analysis Expressions) – KPI calculations
-
-Microsoft Excel – Trade journal and data preparation
-
-**Dashboard Features**
-
-
-
-The dashboard includes:
-
-KPI cards for key trading metrics
-
-Interactive filters to analyze performance by date or trade type
-
-Time-series charts showing capital growth
-
-Trade outcome distribution analysis
-
-Risk exposure monitoring
-
-
-
-**Dataset**
+## Dataset
 
 The original dashboard was built using a client trading journal dataset.
 
@@ -111,50 +66,20 @@ For confidentiality reasons, the dataset included in this repository is a synthe
 
 Dataset fields include:
 
-Trade Date
+- Trade Date
+- Instrument
+- Trade Result
+- Profit / Loss
+- Risk %
+- Account Balance
 
-Instrument
+---
 
-Trade Result
+## Outcome
 
-Profit / Loss
+The dashboard helps traders:
 
-Risk %
-
-Account Balance
-
-
-
-**Outcome**
-
-The dashboard provided the trader with a structured view of trading performance, making it easier to:
-
-Identify profitable strategies
-
-Monitor drawdowns
-
-Improve risk management
-
-Evaluate long-term trading consistency
-
-
-
-**Project Demonstrates**
-
-Data Visualization
-
-Financial Data Analysis
-
-KPI Development
-
-Power BI Dashboard Design
-
-DAX Calculations
-
-Business-oriented Data Analytics
-
-
-
-**Author**
-
-Data Analytics Portfolio Project
+- Monitor trading performance
+- Track capital growth
+- Identify profitable strategies
+- Improve risk management decisions
