@@ -23,6 +23,7 @@ Identify patterns in profitable and losing trades
 
 This allows the trader to make data-driven decisions instead of relying on intuition.
 
+
 **Solution Developed**
 
 A complete trading analytics dashboard was designed using Power BI.
@@ -39,6 +40,8 @@ Visualization of performance trends over time
 
 The dashboard allows the trader to explore performance data dynamically.
 
+
+
 **Key Metrics Implemented**
 **Performance Metrics**
 
@@ -52,6 +55,8 @@ Total Trades
 
 Monthly Performance
 
+
+
 **Risk Metrics**
 
 Risk Percentage per Trade
@@ -60,6 +65,8 @@ Risk-Reward Ratio
 
 Loss Distribution
 
+
+
 **Analytical Insights**
 
 Capital growth trend
@@ -67,6 +74,8 @@ Capital growth trend
 Monthly trading performance
 
 Trade outcome distribution
+
+
 
 **Tools & Technologies**
 
@@ -77,6 +86,8 @@ DAX (Data Analysis Expressions) – KPI calculations
 Microsoft Excel – Trade journal and data preparation
 
 **Dashboard Features**
+
+
 
 The dashboard includes:
 
@@ -89,6 +100,8 @@ Time-series charts showing capital growth
 Trade outcome distribution analysis
 
 Risk exposure monitoring
+
+
 
 **Dataset**
 
@@ -110,6 +123,8 @@ Risk %
 
 Account Balance
 
+
+
 **Outcome**
 
 The dashboard provided the trader with a structured view of trading performance, making it easier to:
@@ -121,6 +136,8 @@ Monitor drawdowns
 Improve risk management
 
 Evaluate long-term trading consistency
+
+
 
 **Project Demonstrates**
 
@@ -135,6 +152,8 @@ Power BI Dashboard Design
 DAX Calculations
 
 Business-oriented Data Analytics
+
+
 
 **Author**
 
